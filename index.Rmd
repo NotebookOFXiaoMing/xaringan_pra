@@ -1,5 +1,5 @@
 ---
-title: "学习使用R包xaringan做幻灯片"
+title: "学习将R包xaringan做的幻灯片放到github上"
 subtitle: " "  
 author: 
   - "小明"
